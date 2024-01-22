@@ -1,3 +1,3 @@
 **pima indians diabetes classification**
-you can download thhe dataset from machine learning reposiroty of UCI, 
+you can download the dataset from machine learning repository of UCI, 
 this attemp gave me the highest accuracy of about 75% 
